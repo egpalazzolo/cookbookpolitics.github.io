@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cookbook Politics: Reading and Writing U.S. Culinary History
 
 You can use the [editor on GitHub](https://github.com/egpalazzolo/cookbookpolitics.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
